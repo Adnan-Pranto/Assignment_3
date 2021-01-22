@@ -1,4 +1,4 @@
-    https://github.com/Adnan-Pranto/Assignment_3
+   // https://github.com/Adnan-Pranto/Assignment_3
         
         /* First Problem
             Convert Kilometer To Meter */
@@ -18,7 +18,7 @@ function kilometerToMeter(kilometer) {
 
 function budgetCalculator(watch, mobile, laptop) {
     if (watch < 0 || mobile < 0 || laptop < 0) {
-        return "Money can't be negative value..!!";
+        return "We can't give negative value..!!";
     }
     var watchPrice = 50 * watch;
     var mobilePrice = 100 * mobile;
